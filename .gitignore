@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/raw/
+data/train/
+data/val/
+model/treatment_feedback.jsonl
+tmp/pdfs/*.png
+tmp/pdfs/*.pdf
+
+*.lnk
+tmp/
